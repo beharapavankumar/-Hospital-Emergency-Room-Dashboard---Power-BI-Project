@@ -41,3 +41,6 @@ Average Wait Time
 Patient Satisfaction Score
 
 Number of Department Referrals
+
+
+
